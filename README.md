@@ -1,11 +1,6 @@
 # DIP Final Project - Cartooning face images
 
-
 Author: Maynara Natalia  <br>
-USP number: 11919669			<br>								
-Course code: 55134 (Mestrado CCMC)							  
-Year: 1		
-Semester: 1	
 
 ## Description and main objective 
 
@@ -37,7 +32,3 @@ The steps to reach the cartoon effect was:
 The XDoG technique is detailed in the paper: <b> XDoG: An eXtended difference-of-Gaussians compendium including advanced image stylization </b>
 
 It can be accessed through https://www.kyprianidis.com/p/cag2012/winnemoeller-cag2012.pdf
-
-## Link for the presentation
-
-https://www.youtube.com/watch?v=WDf3KcxGMQY&feature=youtu.be
